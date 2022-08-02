@@ -2,7 +2,13 @@ package com.example.gocut.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val Purple200 = Color(0xFFBB86FC)
-val Purple500 = Color(0xFF6200EE)
-val Purple700 = Color(0xFF3700B3)
-val Teal200 = Color(0xFF03DAC5)
+val background = Color(0xFFFFFFFF)
+val paragraphBlack = Color(0xFF2E2E2E)
+val primaryBlue = Color(0xFF4FC4CF)
+val primaryBlueDark = Color(0xFF00214D)
+val primaryBlueAlpha = Color(0xFFD7F2F4)
+val lightGrey = Color(0xFFCCCCCC)
+val darkGrey = Color(0xFF9DA09F)
+val headLineBlack = Color(0xFF181818)
+val buttonTextBlack = Color(0xFF181818)
+val transparent = Color(0xFFFFFF)
