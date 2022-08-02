@@ -4,8 +4,8 @@ import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes
 import androidx.compose.ui.unit.dp
 
-val buttonShape = RoundedCornerShape(6.dp)
-val textFieldShape = RoundedCornerShape(6.dp)
+val ButtonShape = RoundedCornerShape(6.dp)
+val TextFieldShape = RoundedCornerShape(6.dp)
 
 val Shapes = Shapes(
     small = RoundedCornerShape(4.dp),

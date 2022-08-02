@@ -6,8 +6,8 @@ import androidx.compose.material.darkColors
 import androidx.compose.runtime.Composable
 
 private val brandColorPalette = darkColors(
-    primary = background,
-    onPrimary = paragraphBlack,
+    primary = buttonTextBlack,
+    onPrimary = background,
     secondary = primaryBlue,
     onSecondary = buttonTextBlack,
     background = primaryBlueAlpha,
